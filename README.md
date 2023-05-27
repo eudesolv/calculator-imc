@@ -1,6 +1,7 @@
 <h1 align="center"> Calculadora IMC </h1>
 
-<img src="![Alt text](images/calculadora-imc.png)">
+https://github.com/eudesolv/calculator-imc/issues/1#issue-1728448428 
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
